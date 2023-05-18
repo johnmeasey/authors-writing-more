@@ -1,4 +1,4 @@
-var TITLE = 'The number of papers being published (1990–2020)';
+var TITLE = 'The number of papers being published (1990–2022)';
 
 // Caption underneath the chart
 var CAPTION = 'Source: www-scopus-com';
